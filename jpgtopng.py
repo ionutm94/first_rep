@@ -3,6 +3,7 @@ import os
 import re
 from PIL import Image, ImageFilter
 
+
 source_path = sys.argv[1]
 destination_path = sys.argv[2]
 
